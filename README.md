@@ -1,5 +1,5 @@
-# LLM on Raspberry: What you think?
+# GSVT: Global Saturation-Value Translation for Aerial Image Dehazing
 
-This project is to deploy an LLM on Raspberry Pi 5.
+Official Python implementation of the Global Saturation-Value Translation (GSVT) algorithm for aerial image dehazing.
 
 LA Tran
